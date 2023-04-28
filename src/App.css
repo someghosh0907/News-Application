@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+.background{
+  background-color: #221f1f;
+}
+
+.navbar-brand{
+  color: rgb(136, 4, 4);
+  background-color: rgb(241, 89, 89);
+  text-align: center;
+  text-decoration-style: dotted;
+}
+
+.navbar-brand{
+  padding: 10px 20px;
+  
+}
+
+.col{
+  padding: 5px;
+}
+
+.nav-link{
+  color: rgb(211, 124, 124);
+}
